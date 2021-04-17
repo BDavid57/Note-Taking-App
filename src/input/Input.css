@@ -1,0 +1,24 @@
+.input-title {
+  margin: 10px 0px;
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+}
+.input-title input {
+  margin: 1rem 0;
+  padding: 0.7rem;
+  width: 80%;
+}
+.add-btn {
+  background-color: black;
+  color: white;
+  padding: 0.2em 3em;
+}
+
+.input-text {
+  min-height: 100vh;
+  width: auto;
+}
+.input-text textarea {
+  padding: 1rem;
+}
