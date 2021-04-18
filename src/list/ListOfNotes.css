@@ -23,3 +23,9 @@
   display: flex;
   justify-content: space-between;
 }
+
+@media(max-width: 768px){
+  .item {
+    width: 100%;
+  }
+}
