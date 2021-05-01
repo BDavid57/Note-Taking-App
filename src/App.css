@@ -37,6 +37,7 @@
     left: 3rem;
   }
   .App .input-area {
+    width: 70%;
     position: fixed;
     top: 3rem;
     right: 3rem;

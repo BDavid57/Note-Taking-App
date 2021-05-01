@@ -1,3 +1,6 @@
+.input-area {
+  width: auto;
+}
 .input-text textarea {
   padding: 1rem;
   width: 100%;
@@ -16,7 +19,10 @@
 .add-btn {
   background-color: black;
   color: white;
+  margin: 1rem 0;
   padding: 0.2em 1em;
+  height: 40px;
+  width: 100px;
 }
 
 @media(min-width: 768px){
@@ -34,7 +40,8 @@
   .add-btn {
     background-color: black;
     color: white;
-    padding: 0.2em 3em;
+    height: 40px;
+    width: 100px;
   }
   
   .input-text {
